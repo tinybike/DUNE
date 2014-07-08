@@ -19,20 +19,35 @@ several static and dynamic quantities obtained from the simulation, but
 are not required to run ppi.m:
 
 std_dyn.m (calculates dynamical statistics)
+
 std_stat.m (calculates static end-state statistics)
+
 std_tracking.m (calculates degree and betweenness "tracking" statistics)
+
 ppi_dyn.m (prepares dynamical quantities for plotting)
+
 RT_save_figures_bvk.m (betweenness vs degree)
+
 RT_save_figures_nvk.m (nearest-neighbor degree vs degree)
+
 RT_save_figures_Cvk.m (clustering coefficients vs degree)
+
 RT_save_figures_E2.m (second-largest eigenvalue evolution)
+
 RT_save_figures_px.m (closeness distribution)
+
 RT_save_figures_plambda.m (walk matrix eigenvalue distribution)
+
 RT_save_figures_pb.m (betweenness distribution)
+
 RT_save_figures_pk.m (degree distribution)
+
 RT_save_figures_gcc.m (global clustering coefficient evolution)
+
 RT_save_figures_Q.m (modularity coefficient evolution)
+
 RT_save_figures_d.m (diameter evolution)
+
 RT_save_figures_f1.m (largest component evolution)
 
 Jack Peterson (jack@tinybike.net)
